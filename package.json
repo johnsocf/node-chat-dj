@@ -1,0 +1,10 @@
+{
+	"name": "chat.io",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "4.x",
+		"socket.io": "0.9.16",
+		"body-parser": "*",
+		"superagent": "0.18.0"
+	}
+}
